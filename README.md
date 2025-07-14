@@ -19,4 +19,3 @@ A visually stunning and responsive real estate website designed to showcase prem
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/tharun0717/real_estate_website.git
