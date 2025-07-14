@@ -14,9 +14,6 @@ A visually stunning and responsive real estate website designed to showcase prem
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Responsive Design:** Flexbox, CSS Grid, Media Queries  
-- *(Optional: Add frameworks like Tailwind CSS, React, or Bootstrap if used)*
-
 
 ## 🚀 Getting Started
 
